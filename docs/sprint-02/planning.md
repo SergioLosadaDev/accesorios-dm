@@ -13,7 +13,7 @@ Para el Sprint 2, el equipo avanzara en la documentación para la construcción 
 **2. Priorización MoSCoW**
 
 - Tomar la lista de funcionalidades generadas con Desing Thinking y **Clasificar** cada funcionalidad en Must / Should / Could / Won’t.
-- Crear la tabla MoSCoW para el E-Commerce Accersorios D%M.
+- Crear la tabla MoSCoW para el E-Commerce Accersorios D&M.
 
 **3. Repositorios**
 
