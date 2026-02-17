@@ -3,7 +3,7 @@
 ## Integrantes
 
 1. Dayana Motta Camayo
-2. Juan Sebastias Angulo
+2. Juan Sebastian Agudelo Quintero
 3. Dany Yulieth Campos Bustos
 4. Sergio Andres Losada Bahamón
 
