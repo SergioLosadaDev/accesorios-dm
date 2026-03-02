@@ -29,7 +29,8 @@ El sistema será desarrollado bajo metodología **Scrum**, iniciando con la cons
 El sistema está diseñado bajo una arquitectura de **microservicios**, separando responsabilidades en distintos repositorios:
 
 - 🔹 [Portal Web (Frontend)](https://github.com/SergioLosadaDev/accesorios-dm-frontend.git)
-- 🔹 [Backend API](https://github.com/SergioLosadaDev/accesorios-dm-api-gateway.git)
+- 🔹 [App Mobile](https://github.com/SergioLosadaDev/accesorios-dm-mobile.git)
+- 🔹 [Backend API gateway](https://github.com/SergioLosadaDev/accesorios-dm-api-gateway.git)
 - 🔹 [Modulo de Inventario](https://github.com/SergioLosadaDev/accesorios-dm-inventory-service.git)
 - 🔹 [Modulo de Pago](https://github.com/SergioLosadaDev/accesorios-dm-payment-service.git)
 - 🔹 [Modulo de Seguridad](https://github.com/SergioLosadaDev/accesorios-dm-security-service.git)
