@@ -34,7 +34,7 @@ El sistema está diseñado bajo una arquitectura de **microservicios**, separand
 - 🔹 [Modulo de Inventario](https://github.com/SergioLosadaDev/accesorios-dm-inventory-service.git)
 - 🔹 [Modulo de Pago](https://github.com/SergioLosadaDev/accesorios-dm-payment-service.git)
 - 🔹 [Modulo de Seguridad](https://github.com/SergioLosadaDev/accesorios-dm-security-service.git)
-- 🔹 [Base de Datos](https://github.com/SergioLosadaDev/accesorios-dm-db.git)
+- 🔹 [Base de Datos](https://github.com/SergioLosadaDev/accesorios-dm-database.git)
 
 ---
 
